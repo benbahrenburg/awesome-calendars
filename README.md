@@ -11,6 +11,7 @@ A list of awesome calendar components
 * [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView): A fully customizable calendar view acting as a date range picker
 * [FFCalendar](https://github.com/fggeraissate/FFCalendar): Yearly, Monthly, Weekly and Daily Calendars for iOS.
 * [Calendar](https://github.com/jumartin/Calendar): A set of views and controllers for displaying and scheduling events on iOS
+* [RDVCalendarView](https://github.com/robbdimitrov/RDVCalendarView): Highly customizable calendarView and calendarViewController for iOS
 
 ##Android
 * [CalendarListview](https://github.com/traex/CalendarListview): Implementation of a calendar in a ListView. One month by row.
@@ -18,3 +19,4 @@ A list of awesome calendar components
 
 ##JavaScript
 * [bootstrap calendar](https://github.com/Serhioromano/bootstrap-calendar): Full view calendar with year, month, week and day views based on templates with Twitter Bootstrap.
+* [flatpickr](https://github.com/chmln/flatpickr): Lightweight and powerful datetimepicker with no dependencies
